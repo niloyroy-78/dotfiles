@@ -70,3 +70,5 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export BROWSER="/mnt/c/Users/niloy/AppData/Local/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Users/niloy/AppData/Local/Google/Chrome/Application/chrome.exe'"
